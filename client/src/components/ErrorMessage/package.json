@@ -1,0 +1,6 @@
+{
+  "name": "Error Message",
+  "version": "0.0.0",
+  "private": true,
+  "main": "ErrorMessage.jsx"
+}

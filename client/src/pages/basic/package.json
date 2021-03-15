@@ -1,0 +1,6 @@
+{
+  "name": "BasicReports",
+  "version": "0.0.0",
+  "main": "BasicReport.js",
+  "private": true
+}
